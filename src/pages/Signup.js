@@ -42,7 +42,7 @@ export default class Signup extends Component {
             <form onSubmit={this.handleSubmit}>
               <h1>
                 Sign Up to
-              <Link to="/">Chatty</Link>
+              <Link to="/"> Chatty</Link>
               </h1>
               <p>Fill in the form below to create an account.</p>
               <div>

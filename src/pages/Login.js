@@ -44,7 +44,7 @@ export default class Login extends Component {
           <h1>
             Login to
             <Link to="/">
-              Chatty
+               Chatty
             </Link>
           </h1>
           <p>
